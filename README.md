@@ -14,4 +14,4 @@ After putting all the screws back, I cut out small pieces of black stickers to c
 
 Doing all these things greatly preserved the original aesthetics of the microphone as compared to Gizmo did in his YouTube video.
 
-![This is an image.](https://github.com/Make-Stuff4U/SilentBell/blob/main/SilentBell.PNG)
+![This is an image.](https://github.com/Make-Stuff4U/Audio-Technica-AT2020USB/blob/main/[2] Black Heat Shrink Tubing Added (2nd Layer).jpg)
