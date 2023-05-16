@@ -14,4 +14,4 @@ After putting all the screws back, I cut out small pieces of black stickers to c
 
 Doing all these things greatly preserved the original aesthetics of the microphone as compared to Gizmo did in his YouTube video.
 
-![This is an image.]([https://github.com/Make-Stuff4U/Audio-Technica-AT2020USB/blob/main/[2] Black Heat Shrink Tubing Added (2nd Layer).jpg](https://github.com/Make-Stuff4U/Audio-Technica-AT2020USB/blob/157e6a2d39b217145ee2b24e1bfb7bbda6e7e1e7/%5B2%5D%20Black%20Heat%20Shrink%20Tubing%20Added%20(2nd%20Layer).jpg)
+![This is an image.](https://github.com/Make-Stuff4U/Audio-Technica-AT2020USB/blob/157e6a2d39b217145ee2b24e1bfb7bbda6e7e1e7/%5B2%5D%20Black%20Heat%20Shrink%20Tubing%20Added%20(2nd%20Layer).jpg)
